@@ -1,0 +1,49 @@
+/*!
+Theme Name: Tienda  Online Movistar
+Theme URI: https://them.es/starter
+Author: Guillermo Ruiz
+Author URI: https://them.es/
+Description: Tienda online Movistar
+Version: 3.0.4
+Requires at least: 5.0
+Tested up to: 5.9
+Requires PHP: 7.2
+License: GPL version 2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0
+Tags: custom-background, custom-colors, featured-images, flexible-header, microformats, post-formats, rtl-language-support, theme-options, translation-ready, accessibility-ready
+Text Domain: tol-movistar
+*/
+
+/* Don't overwrite this file. Compile "/assets/main.(less|scss)" to "/assets/css/main.css" */
+
+/* From http://codex.wordpress.org/CSS */
+
+:root {
+  --color-azul-movistar: #019df4;
+  --color-azul-claro-movistar: #66bef5;
+  --color-azul-oscuro-movistar: #0b2739;
+  --color-azul-oscuro-claro-movistar: #3c5261;
+  --color-verde-claro-movistar: #8de4a4;
+  --color-verde-movistar: #5cb615;
+  --color-verde-oscuro-movistar: #3c7521;
+  --color-purpura-claro-movistar: #debce4;
+  --color-purpura-movistar: #a13ea1;
+  --color-purpura-oscuro-movistar: #642a72;
+  --color-magenta-claro-movistar: #fbc7de;
+  --color-magenta-movistar: #e63780;
+  --color-magenta-oscuro-movistar: #922859;
+  --color-naranja-claro-movistar: #f8cccc;
+  --color-naranja-movistar: #ec624b;
+  --color-naranja-oscuro-movistar: #983230;
+  --color-amarillo-claro-movistar: #f8d2b3;
+  --color-amarillo-movistar: #f28d15;
+  --color-amarillo-oscuro-movistar: #9f591f;
+  --color-gris-1-movistar: #f5f5f5;
+  --color-gris-2-movistar: #d3d4d3;
+  --color-gris-3-movistar: #b6b7b7;
+  --color-gris-4-movistar: #86888c;
+  --color-gris-5-movistar: #50535a;
+  --color-gris-6-movistar: #313235;
+  --color-negro-movistar: #000;
+  --color-blanco-movistar: #fff;
+}
